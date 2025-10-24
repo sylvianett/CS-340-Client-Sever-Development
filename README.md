@@ -1,1 +1,10 @@
 # CS-340-Client-Sever-Development
+
+How do you write programs that are maintainable, readable, and adaptable?
+I write maintainable and adaptable programs by keeping my code modular, consistent, and well-documented. In Project One, I created the CRUD Python module that handled all database interactions between MongoDB and the dashboard. Building this module separately made it easier to reuse, debug, and connect to the dashboard in Project Two. The biggest advantage of this approach was that the logic for creating, reading, updating, and deleting data existed in one place, which improved organization and reduced errors. In the future, I could easily reuse this CRUD module for other database-driven applications, such as web dashboards or API services, just by adjusting the database credentials and collection names.
+
+How do you approach a problem as a computer scientist?
+As a computer scientist, I start by breaking down the problem into smaller, manageable pieces and identifying what the client needs. For the Grazioso Salvare project, I analyzed the dashboard requirements and first focused on building the data connection, then worked on visualization and filtering features. Compared to earlier assignments, this project required me to think more like a systems designer—balancing data access, user interactivity, and visualization. In future projects, I’ll continue using this systematic approach: gathering requirements, designing data models, and using testing and iteration to meet client expectations effectively.
+
+What do computer scientists do, and why does it matter?
+Computer scientists solve problems through technology and data. In this project, I created a functional dashboard that helps Grazioso Salvare filter, view, and map animals suitable for rescue training. This type of system matters because it helps organizations make faster, data-driven decisions. For a company like Grazioso Salvare, my work could directly improve how they identify animals for specific rescue operations, saving time and resources. Projects like this show how computational thinking and data visualization can create meaningful real-world impact.
